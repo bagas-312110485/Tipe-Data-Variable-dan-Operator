@@ -13,23 +13,22 @@ Pada halaman ini (Tugas pertemuan 6 - lab 1) Saya di berikan tugas oleh Dosen ya
 
 ![Gambar 1](Praktikum/lab1.png)
 
-#Penggunaan End
-print("A", end="")
-print("B", end="")
-print("C", end="")
+print(&quot;A&quot;, end=&quot;&quot;)
+print(&quot;B&quot;, end=&quot;&quot;)
+print(&quot;C&quot;, end=&quot;&quot;)
 
 print()
-print("X")
-print("Y")
-print("Z")
+print(&quot;X&quot;)
+print(&quot;Y&quot;)
+print(&quot;Z&quot;)
 
 #Penggunaan Separator
 w,x,y,z=10,15,20,25
 print(w,x,y,z)
-print(w,x,y,z,sep=",")
-print(w,x,y,z,sep="")
-print(w,x,y,z,sep=":")
-print(w,x,y,z,sep="-----")
+print(w,x,y,z,sep=&quot;,&quot;)
+print(w,x,y,z,sep=&quot;&quot;)
+print(w,x,y,z,sep=&quot;:&quot;)
+print(w,x,y,z,sep=&quot;-----&quot;)
 
 Oke, kali ini saya menjelaskan materi yang dijelaskan oleh Dosen. 
 
