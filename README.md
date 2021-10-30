@@ -11,4 +11,4 @@ Matkul      : Bahasa Pemrograman
 
 Pada halaman ini (Tugas pertemuan 6 - lab 1) Saya di berikan tugas oleh Dosen yaitu mempelajari Operator Aritmatika menggunakan bahasa pemograman python. Berikut source yang di berikan oleh Dosen
 
-![lab1](Gambar/lab1.png)
+![lab1](Sceenshots/lab1.png)
