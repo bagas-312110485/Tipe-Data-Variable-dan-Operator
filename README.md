@@ -58,7 +58,7 @@ Menampilkan hasil variable dari tiap-tiap variable dengan menggunakan pemisah --
 String format
 String formatting atau pemformatan string memungkinkan kita menyuntikkan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation.Penggunaan pada source yang di berikan Dosen sebagai berikut : 
 
-![Gambar 11](Praktikum/lab1-2)
+![Gambar 11](Praktikum/lab1-2.png)
 
 Saat ini saya akan menjelaskan satu persatu dari syntax yang diberikan oleh Dosen 
 
@@ -90,3 +90,42 @@ Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini
 Hasil Outputnya:
 
 ![Gambar 16](Praktikum/Lab2Output.png)
+
+
+# Tugas Latihan
+
+![Gambar 17](TugasLatihan/Tugas.png)
+
+## Rumus Luas & Keliling Lingkaran
+
+![Gambar 18](TugasLatihan/Rumus.png)
+
+    Nilai Phi yang akan kita gunakan adalah 3.14
+    r merupakan jari-jari lingkaran
+
+Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak antara titik pusat dengan tepi lingkaran. Sebetulnya ada rumus lain untuk menghitung keliling lingkaran yaitu dengan menggunakan diameter, tapi pada kasus ini kita cukup menggunakan jari jari lingkaran saja.
+
+## Flowchart Menghitung Luas & Keliling Lingkaran
+
+![Gambar 19](TugasLatihan/Flowchart.png)
+
+## Program Python Menghitung Luas & Keliling Lingkaran
+
+![Gambar 20](TugasLatihan/Program.png)
+
+## Output:
+
+![Gambar 21](TugasLatihan/Output)
+
+## Penjelasan 
+
+untuk mengambil 2 angka pecahan saja kita pakai fungsi format() seperti berikut:
+
+![Gambar 22](TugasLatihan/P1)
+
+Dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja.
+
+
+================= TAHNKS =================
+BAGAS ARI PRADANA / 312110485 / TI.21.C5
+=================☕☕☕=================
