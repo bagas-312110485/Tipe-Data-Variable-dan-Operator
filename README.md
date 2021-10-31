@@ -126,8 +126,8 @@ untuk mengambil 2 angka pecahan saja kita pakai fungsi format() seperti berikut:
 Dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja.
 
 
-============== TAHNKS ==============
+============ TAHNKS ============
 
 BAGAS ARI PRADANA / 312110485 / TI.21.C5
 
-==============☕☕☕==============
+============☕☕☕============
