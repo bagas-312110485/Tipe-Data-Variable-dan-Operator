@@ -16,4 +16,4 @@ Pada halaman ini (Tugas pertemuan 6 - lab 1) Saya di berikan tugas oleh Dosen ya
 
 Oke, kali ini saya menjelaskan materi yang dijelaskan oleh Dosen. 
 
-![Gambar 2](Praktikum/CodeLab1.png)
+C:\Tipe-Data-Variable-dan-Operator\Tipe-Data-Variable-dan-Operator\Praktikum\CodeLab1.png
