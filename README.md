@@ -51,3 +51,42 @@ Menampilkan hasil variable dari tiap-tiap variable dengan menggunakan pemisah --
 ### Hasil dari syntax / source code diatas adalah seperti berikut ini:
 
 ![Gambar 10](Praktikum/Lab1Hasil.png)
+
+
+## Lab1-2
+
+String format
+String formatting atau pemformatan string memungkinkan kita menyuntikkan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation.Penggunaan pada source yang di berikan Dosen sebagai berikut : 
+
+![Gambar 11](Praktikum/lab1-2)
+
+Saat ini saya akan menjelaskan satu persatu dari syntax yang diberikan oleh Dosen 
+
+### 1.String format 1
+Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan.
+Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan sebelah kanan akan menampilkan Oprasi Aritmatika Pangkat.
+Dengan ketentuan sebagau berikut, oprasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [Bintang dua])
+Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10. Dengan output sebagai berikut : 
+
+![Gambar 12](Praktikum/Lab1-2String1.png)
+
+
+### 2.String format 2
+Pada syntax / source code string format 2 akan menampilkan output berupa 2 output'an juga (Seoerti string format 1, yaitu kanan dan kiri)
+
+![Gambar 13](Praktikum/Lab1-2String2.png)
+
+## Lab 2
+
+### Konversi Nilai Variable Untuk pembahasan terakhir, kali ini akan myenyelesaikan tugas Lab 2 dari Dosen, yaitu Konversi Nilai Variable
+Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini 
+
+![Gambar 14](Praktikum/Lab2.png)
+
+### Program yang saya buat 
+
+![Gambar 15](Praktikum/Lab2Code.png)
+
+Hasil Outputnya:
+
+![Gambar 16](Praktikum/Lab2Output.png)
