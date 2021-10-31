@@ -25,3 +25,29 @@ Oke, kali ini saya menjelaskan materi yang dijelaskan oleh Dosen.
 Penggunaan print() digunakan untuk mencetak output, Syntax dibawah ini digunakan untuk menampilkan output berupa string
 
 ![Gambar 4](Praktikum/Lab1syntax.png)
+
+### Hasil dari source code terseut seperti gambar di bawah ini: 
+
+![Gambar 5](Praktikum/Lab1output.png)
+
+### Pengertian separaktor Sepaktor adalah pemisah yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda sepasi
+
+Pendeklarasian beberapa variable berserta nilainya
+
+![Gambar 6](Praktikum/Lab1Variable.png)
+
+Menampilkan hasil setiap variable tiap-tiap variable
+
+![Gambar 7](Praktikum/Lab1HasilV.png)
+
+Menampilkan hasil variable dari tiap-tiap variable menggunakan pemisah , (koma)
+
+![Gambar 8](Praktikum/Lab1Pemisah.png)
+
+Menampilkan hasil variable dari tiap-tiap variable dengan menggunakan pemisah ----
+
+![Gambar 9](Praktikum/Lab1Pemisah-)
+
+### Hasil dari syntax / source code diatas adalah seperti berikut ini:
+
+![Gambar 10](Praktikum/Lab1Hasil)
