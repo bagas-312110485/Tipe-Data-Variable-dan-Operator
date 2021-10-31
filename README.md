@@ -115,13 +115,13 @@ Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak 
 
 ## Output:
 
-![Gambar 21](TugasLatihan/Output)
+![Gambar 21](TugasLatihan/Output.png)
 
 ## Penjelasan 
 
 untuk mengambil 2 angka pecahan saja kita pakai fungsi format() seperti berikut:
 
-![Gambar 22](TugasLatihan/P1)
+![Gambar 22](TugasLatihan/P1.png)
 
 Dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja.
 
